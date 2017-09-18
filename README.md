@@ -1,4 +1,4 @@
-# 359 Dergrees
+# 359 Degrees
 Source Files for a short and simple game I made in 2015. (Game was made using Gamemaker Studio)  
   
 This game has also been uploaded to the Steam Gamemaker Studio Workshop  
